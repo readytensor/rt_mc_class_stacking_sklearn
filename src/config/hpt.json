@@ -1,0 +1,11 @@
+{
+  "num_trials": 20,
+  "hyperparameters": [
+    {
+      "name": "passthrough",
+      "short_desc": "determines whether the original training data should be passed to the final_estimator ",
+      "type": "categorical",
+      "categories": [true, false]
+    }
+  ]
+}
